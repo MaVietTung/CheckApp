@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f2f2f2;
+}
+h1 {
+  text-align: center;
+}
+.result {
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-left: 5px solid #ccc;
+}
+.ok {
+  border-color: green;
+}
+.redirect {
+  border-color: orange;
+}
+.error {
+  border-color: red;
